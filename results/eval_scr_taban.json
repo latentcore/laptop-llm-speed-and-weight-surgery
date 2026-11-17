@@ -1,0 +1,20 @@
+{
+ "model": "Llama-3.2-3B-Instruct-Q8_0.gguf",
+ "tag": "scr_taban",
+ "system": "",
+ "extra": [],
+ "sets": [
+  {
+   "set": "math500",
+   "n": 79,
+   "acc": 26.6,
+   "ci95": 9.7,
+   "kesilme_yuzde": 22.8,
+   "dongu_yuzde": 22.8,
+   "son_cevap_yok_yuzde": 34.2,
+   "ort_token": 530,
+   "sn": 64.8,
+   "tok_sn": 647
+  }
+ ]
+}

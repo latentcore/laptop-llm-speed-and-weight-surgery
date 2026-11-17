@@ -1,0 +1,4 @@
+gguf
+numpy
+pytest
+pyflakes

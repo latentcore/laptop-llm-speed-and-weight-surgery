@@ -1,0 +1,20 @@
+{
+ "model": "Qwen3.5-0.8B-WSPpaper-Q8_0.gguf",
+ "tag": "q35_wsp40",
+ "system": "",
+ "extra": [],
+ "sets": [
+  {
+   "set": "math500",
+   "n": 40,
+   "acc": 2.5,
+   "ci95": 4.8,
+   "kesilme_yuzde": 97.5,
+   "dongu_yuzde": 32.5,
+   "son_cevap_yok_yuzde": 95.0,
+   "ort_token": 8146,
+   "sn": 346.0,
+   "tok_sn": 942
+  }
+ ]
+}

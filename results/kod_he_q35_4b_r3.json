@@ -1,0 +1,17 @@
+{
+ "model": "Qwen3.5-4B-Q4_K_M.gguf",
+ "tag": "he_q35_4b_r3",
+ "n": 164,
+ "k": 4,
+ "R": 2,
+ "kwargs": {
+  "enable_thinking": false
+ },
+ "pass1_greedy": 82.9,
+ "pass1_sampled": 79.9,
+ "passk": 89.0,
+ "ajan_tur1": 87.2,
+ "ajan_tur2": 89.0,
+ "toplam_sn": 726.5,
+ "uretilen_token": 214357
+}

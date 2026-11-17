@@ -1,0 +1,12 @@
+models/
+bin/
+cache/
+tmp/
+venv/
+logs/
+kod_uretimi/
+data/eval/
+data/wikitext2/
+*.gguf
+*.part
+_scan_text.md

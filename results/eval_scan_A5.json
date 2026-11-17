@@ -1,0 +1,23 @@
+{
+ "model": "Qwen3.5-0.8B-Q8_0.gguf",
+ "tag": "scan_A5",
+ "system": "",
+ "extra": [
+  "--lora-scaled",
+  "data/wsp/lora_A5.gguf:1.0"
+ ],
+ "sets": [
+  {
+   "set": "math500",
+   "n": 16,
+   "acc": 12.5,
+   "ci95": 16.2,
+   "kesilme_yuzde": 75.0,
+   "dongu_yuzde": 75.0,
+   "son_cevap_yok_yuzde": 87.5,
+   "ort_token": 7195,
+   "sn": 116.1,
+   "tok_sn": 992
+  }
+ ]
+}

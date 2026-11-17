@@ -1,0 +1,23 @@
+{
+ "model": "Qwen3.5-0.8B-Q8_0.gguf",
+ "tag": "q35_own",
+ "system": "",
+ "extra": [
+  "--lora-scaled",
+  "data/wsp/lora_q35own.gguf:1.0"
+ ],
+ "sets": [
+  {
+   "set": "math500",
+   "n": 40,
+   "acc": 0.0,
+   "ci95": 0.0,
+   "kesilme_yuzde": 100.0,
+   "dongu_yuzde": 90.0,
+   "son_cevap_yok_yuzde": 100.0,
+   "ort_token": 8192,
+   "sn": 702.4,
+   "tok_sn": 467
+  }
+ ]
+}

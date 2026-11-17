@@ -1,0 +1,32 @@
+{
+ "model": "Llama-3.2-3B-Instruct-Q8_0.gguf",
+ "tag": "taban_q8",
+ "system": "",
+ "extra": [],
+ "sets": [
+  {
+   "set": "gsm8k",
+   "n": 300,
+   "acc": 81.7,
+   "ci95": 4.4,
+   "kesilme_yuzde": 0.7,
+   "dongu_yuzde": 1.7,
+   "son_cevap_yok_yuzde": 0.7,
+   "ort_token": 188,
+   "sn": 88.2,
+   "tok_sn": 638
+  },
+  {
+   "set": "math500",
+   "n": 200,
+   "acc": 40.5,
+   "ci95": 6.8,
+   "kesilme_yuzde": 15.0,
+   "dongu_yuzde": 13.5,
+   "son_cevap_yok_yuzde": 24.0,
+   "ort_token": 439,
+   "sn": 147.3,
+   "tok_sn": 595
+  }
+ ]
+}

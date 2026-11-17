@@ -1,0 +1,4 @@
+Llama-3.2-3B-Instruct-Q8_0   N= 1: toplam    66.7 tok/sn (istek basina   66.7), 128 token, 1.92 sn
+Llama-3.2-3B-Instruct-Q8_0   N= 4: toplam   227.6 tok/sn (istek basina   56.9), 472 token, 2.07 sn
+Llama-3.2-3B-Instruct-Q8_0   N= 8: toplam   412.9 tok/sn (istek basina   51.6), 944 token, 2.29 sn
+Llama-3.2-3B-Instruct-Q8_0   N=16: toplam   727.6 tok/sn (istek basina   45.5), 1848 token, 2.54 sn

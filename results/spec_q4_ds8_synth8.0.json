@@ -1,0 +1,1 @@
+{"config": "q4_ds8", "model": "Llama-3.2-3B-Instruct-Q4_K_M.gguf", "args": ["--spec-type", "draft-dspark", "-md", "$ROOT\\models\\Llama-3.2-3B-Instruct-DSpark-Q4_0.gguf", "-ngld", "99", "--spec-draft-n-max", "8", "--spec-draft-n-min", "0"], "prompts": {"chat": [{"tps": 489.25838022858915, "n": 256, "draft_n": 240, "draft_acc": 224, "prompt_n": 52}]}}

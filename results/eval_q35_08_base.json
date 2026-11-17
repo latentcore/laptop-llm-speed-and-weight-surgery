@@ -1,0 +1,20 @@
+{
+ "model": "Qwen3.5-0.8B-Q8_0.gguf",
+ "tag": "q35_08_base",
+ "system": "",
+ "extra": [],
+ "sets": [
+  {
+   "set": "math500",
+   "n": 100,
+   "acc": 0.0,
+   "ci95": 0.0,
+   "kesilme_yuzde": 100.0,
+   "dongu_yuzde": 84.0,
+   "son_cevap_yok_yuzde": 100.0,
+   "ort_token": 8192,
+   "sn": 865.4,
+   "tok_sn": 947
+  }
+ ]
+}

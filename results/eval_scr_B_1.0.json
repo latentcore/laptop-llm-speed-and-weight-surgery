@@ -1,0 +1,23 @@
+{
+ "model": "Llama-3.2-3B-Instruct-Q8_0.gguf",
+ "tag": "scr_B_1.0",
+ "system": "",
+ "extra": [
+  "--lora-scaled",
+  "data/wsp/lora_B.gguf:1.0"
+ ],
+ "sets": [
+  {
+   "set": "math500",
+   "n": 79,
+   "acc": 31.6,
+   "ci95": 10.3,
+   "kesilme_yuzde": 19.0,
+   "dongu_yuzde": 26.6,
+   "son_cevap_yok_yuzde": 26.6,
+   "ort_token": 504,
+   "sn": 68.0,
+   "tok_sn": 586
+  }
+ ]
+}

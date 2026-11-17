@@ -1,0 +1,4 @@
+Llama-3.2-3B-Instruct-Q4_K_M N= 1: toplam   103.3 tok/sn (istek basina  103.3), 128 token, 1.24 sn
+Llama-3.2-3B-Instruct-Q4_K_M N= 4: toplam   315.0 tok/sn (istek basina   78.8), 472 token, 1.50 sn
+Llama-3.2-3B-Instruct-Q4_K_M N= 8: toplam   352.2 tok/sn (istek basina   44.0), 944 token, 2.68 sn
+Llama-3.2-3B-Instruct-Q4_K_M N=16: toplam   410.7 tok/sn (istek basina   25.7), 1848 token, 4.50 sn
