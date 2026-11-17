@@ -2,7 +2,7 @@
 
 A measured log from one afternoon of experiments (17 Nov 2026) on an **RTX 4060 Laptop (8 GB, 256 GB/s)**, Windows 11,
 `llama.cpp` b12473 (official CUDA 12.4 build). Everything is reproducible with the scripts in `scripts/`; model weights
-are **not** included (download links + SHA-256 are in the logs). Numbers are single-machine, single-run unless a ± is given.
+are **not** included (the `scripts/indir_*.sh` downloaders fetch each file from Hugging Face / GitHub releases and verify its SHA-256). Numbers are single-machine, single-run unless a ± is given.
 Negative results are included on purpose.
 
 ## TL;DR (all measured)
